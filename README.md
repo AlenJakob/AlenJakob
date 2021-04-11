@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alen Jakob Welcome](/AlenJakobGit.png)
+
 ## It's Alen Jakob Front-End / JavaScript Developer
 
 ## About me 
