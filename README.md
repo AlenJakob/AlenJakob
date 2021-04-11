@@ -5,10 +5,13 @@
 ## About me 
 
 
-Front-end and web graphics passionate,
+# Front-end 🤔 and web graphics passionate,
 I have made a career shift towards creating websites and applications.
+Open to cooperation with projects
 
-## Stack
+Feel free to contact me 💬
+
+## My Stack 🌱
 
 - HTML5
 - CSS3
