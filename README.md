@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+## It's Alen Jakob Front-End / JavaScript Developer
+
+## About me 
+
+
+Front-end and web graphics passionate,
+I have made a career shift towards creating websites and applications.
+
+## Stack
+
+- HTML5
+- CSS3
+- SASS( SCSS)
+- Bulma
+- JavaScript
+- Vue.js
+- Vuex
+
+
+
+
+
 <!--
 **AlenJakob/AlenJakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
