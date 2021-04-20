@@ -9,7 +9,7 @@
 
 # Front-end 🤔 and web graphics passionate,
 I have made a career shift towards creating websites and applications.
-Open to cooperation with projects
+Open to cooperation.
 
 Feel free to contact me 💬
 
