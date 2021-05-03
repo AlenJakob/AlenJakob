@@ -2,7 +2,7 @@
 
 ![Alen Jakob Welcome](/AlenJakobGit.png)
 
-### Alen Jakob
+## Alen Jakob
 
 ## About me 
 
