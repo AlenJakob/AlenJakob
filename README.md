@@ -2,7 +2,7 @@
 
 ![Alen Jakob Welcome](/AlenJakobGit.png)
 
-## Alen Jakob
+## Name: Alen Jakob
 
 ## About me 
 
