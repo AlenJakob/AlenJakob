@@ -2,10 +2,9 @@
 
 ![Alen Jakob Welcome](/AlenJakobGit.png)
 
-# It's Alen Jakob Front-End / JavaScript Developer
+### Alen Jakob Front-End / JavaScript Developer
 
 ## About me 
-
 
 # Front-end 🤔 and web graphics passionate,
 I have made a career shift towards creating websites and applications.
