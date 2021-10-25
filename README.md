@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Alen Jakob Welcome](/AlenJakobGit.png)
+<a href="https://app.daily.dev/AlenJ"><img src="https://api.daily.dev/devcards/aec5c4b368074804bd6ff5066a3bf04f.png?r=y5e" width="400" alt="Alen's Dev Card"/></a>
 
 ## Name: Alen Jakob
 
