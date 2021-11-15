@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Alen Jakob Welcome](/AlenJakobGit.png)
-
-
 ## Name: Alen Jakob
 
 ## About me 
