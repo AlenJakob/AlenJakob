@@ -8,7 +8,7 @@
 
 ## Open to cooperation ⚡.
 
-Feel free to contact me 💬📫
+Feel free to contact me 💬📫 alenjakob@gmail.com
 
 ## My Stack 🌱
 
