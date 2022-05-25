@@ -4,8 +4,7 @@
 
 ## About me 
 
-# Front-end, JavaScript Developer🤔 and web graphics passionate,  
-I have made a career shift towards creating websites and applications.
+# Front-end, JavaScript Developer :) and web graphics passionate,  
 
 ## Open to cooperation ⚡.
 
@@ -20,6 +19,7 @@ Feel free to contact me 💬📫
 - JavaScript
 - Vue.js
 - Vuex
+- Nuxt.js
 
 
 
