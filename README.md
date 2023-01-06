@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-## Name: Alen Jakob
 
 ## About me 
+
+## Name: Alen Jakob
 
 # Front-end, JavaScript Developer :) and web graphics passionate,  
 
@@ -20,7 +21,6 @@ Feel free to contact me 💬📫 alenjakob@gmail.com
 - Vue.js
 - Vuex
 - Nuxt.js
-
 
 
 
