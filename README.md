@@ -26,6 +26,7 @@ alenjakob@gmail.com
 - Vue.js
 - Vuex
 - Nuxt.js
+- React.js
 
 
 
