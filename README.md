@@ -9,7 +9,21 @@
 
 ## Open to cooperation ⚡.
 
-Feel free to contact me 💬📫 alenjakob@gmail.com
+Feel free to contact me 💬📫 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+
+  ```js
+alenjakob@gmail.com
+  ```
+</details>
 
 ## My Stack 🌱
 
