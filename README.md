@@ -10,11 +10,14 @@
 ## Open to cooperation ⚡.
 
 Feel free to contact me 💬📫
+
 <details>
-  <summary>Email address</summary>
+  <summary>### Email address</summary>
+  
   ```js
 alenjakob@gmail.com
   ```
+  
 </details>
 
 ## My Stack 🌱
