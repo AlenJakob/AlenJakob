@@ -9,17 +9,9 @@
 
 ## Open to cooperation ⚡.
 
-Feel free to contact me 💬📫 
+Feel free to contact me 💬📫
 <details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-
+  <summary>Email address</summary>
   ```js
 alenjakob@gmail.com
   ```
