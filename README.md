@@ -18,15 +18,29 @@ alenjakob@gmail.com
 
 ## My Stack 🌱
 
+  
 - HTML5
 - CSS3
 - SASS( SCSS)
-- Bulma
+
 - JavaScript
+  
 - Vue.js
-- Vuex
 - Nuxt.js
-- React.js
+
+- React.js ( currently )
+- Next.js ( currently )
+
+# UI
+- Bulma
+- Mui ( currently )
+- Chakra UI ( currently )
+
+- TypeScript ( currently )
+
+# Store managment
+- Vuex
+- Zustand ( currently )
 
 
 
