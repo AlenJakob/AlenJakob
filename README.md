@@ -6,12 +6,9 @@
 ## Name: Alen Jakob
 I'm a front-end developer with experience in Vue/Vuex/Nuxt.js gained at an e-commerce company before transitioning to Interia, where I primarily work with React.js/TypeScript/Next.js and MUI. In addition to coding, I enjoy creating new features, cycling, and actively spending my free time outdoors.
 
-# Front-end, JavaScript Developer :) and web graphics passionate,  
-
 ## Open to cooperation ⚡.
 
 Feel free to contact me 💬📫
-
 
   ```js
 alenjakob@gmail.com
