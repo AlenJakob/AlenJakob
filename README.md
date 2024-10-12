@@ -33,11 +33,13 @@ alenjakob@gmail.com
 - Bulma
 - Mui ( currently )
 - Chakra UI ( currently )
+- Mui
 
 - TypeScript ( currently )
 
 # Store managment
 - Vuex
+- context Api
 - Zustand ( currently )
 
 
