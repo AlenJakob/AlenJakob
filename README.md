@@ -1,6 +1,6 @@
 # Hi there, I'm Alen Jakob 👋
 
-### 👨‍💻 Front-End Developer | React & Vue Enthusiast
+### 👨‍💻 Front-End Developer | React Enthusiast
 
 I’m a Front-End Developer currently based at **Interia**, where I specialize in building web applications using **React.js, TypeScript, and Next.js**. My journey started in the e-commerce sector working with **Vue 2**, which gave me a deep understanding of state management and reactive patterns.
 
