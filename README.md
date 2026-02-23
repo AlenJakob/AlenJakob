@@ -1,60 +1,45 @@
-### Hi there 👋
+# Hi there, I'm Alen Jakob 👋
 
+### 👨‍💻 Front-End Developer | React & Vue Enthusiast
 
-## About me 
+I’m a seasoned Front-End Developer currently based at **Interia**, where I specialize in building robust web applications using **React.js, TypeScript, and Next.js**. My journey started in the e-commerce sector working with **Vue 2**, which gave me a deep understanding of state management and reactive patterns.
 
-## Name: Alen Jakob
-I'm a front-end developer with experience in Vue/Vuex/Nuxt.js gained at an e-commerce company before transitioning to Interia, where I primarily work with React.js/TypeScript/Next.js and MUI. In addition to coding, I enjoy creating new features, cycling, and actively spending my free time outdoors.
+Beyond the code, I’m an outdoor enthusiast—you’ll likely find me cycling or exploring new trails whenever I'm away from the keyboard.
 
-## Open to cooperation ⚡.
+---
 
-Feel free to contact me 💬📫
+### 🚀 Featured Project
+**[policznik.pl](https://policznik.pl)** *Moja aktualna inicjatywa, nad którą pracuję, rozwijając swoje umiejętności w nowoczesnym stacku front-endowym.*
 
-  ```js
-alenjakob@gmail.com
-  ```
+---
 
-## My Stack 🌱
+### 🛠️ My Tech Stack
 
-  
-- HTML5
-- CSS3
-- SASS( SCSS)
+| Category | Technologies |
+| :--- | :--- |
+| **Current Focus** | `React.js`, `Next.js`, `TypeScript`, `MUI` |
+| **State Management** | `Zustand`, `Context API`, `Pinia`, `Vuex` |
+| **Styling & UI** | `SASS/SCSS`, `MUI`, `Chakra UI`, `Bulma`, `HTML5/CSS3` |
+| **Previous Stack** | `Vue 2`, `Nuxt.js`, `Vuex` |
 
-- JavaScript
-  
-- Vue.js
-- Nuxt.js
+---
 
-- React.js ( currently )
-- Next.js ( currently )
+### 📊 Stats & Activity
 
-# UI
-- Bulma
-- Mui ( currently )
-- Chakra UI ( currently )
-- Mui
+- 🔭 **Currently working on:** [policznik.pl](https://policznik.pl) & Large-scale media components at Interia.
+- 🌱 **Learning:** Advanced patterns in Next.js & performance optimization.
+- ⚡ **Fun fact:** I find my best debugging solutions while cycling.
 
-- TypeScript ( currently )
+![Alen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenJakob&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenJakob&layout=compact&theme=radical)
 
-# Store managment
-- Vuex
-- context Api
-- Zustand ( currently )
+---
 
+### 🤝 Open to Cooperation
 
+I'm always down to chat about new projects, innovative features, or tech collaborations.
 
-<!--
-**AlenJakob/AlenJakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Email:** [alenjakob@gmail.com](mailto:alenjakob@gmail.com)
+* **Status:** Open to networking 💬📫
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
