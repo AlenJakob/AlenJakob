@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Front-End Developer | React & Vue Enthusiast
 
-I’m a seasoned Front-End Developer currently based at **Interia**, where I specialize in building robust web applications using **React.js, TypeScript, and Next.js**. My journey started in the e-commerce sector working with **Vue 2**, which gave me a deep understanding of state management and reactive patterns.
+I’m a Front-End Developer currently based at **Interia**, where I specialize in building robust web applications using **React.js, TypeScript, and Next.js**. My journey started in the e-commerce sector working with **Vue 2**, which gave me a deep understanding of state management and reactive patterns.
 
 Beyond the code, I’m an outdoor enthusiast—you’ll likely find me cycling or exploring new trails whenever I'm away from the keyboard.
 
