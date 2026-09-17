@@ -1,10 +1,13 @@
 # Hi there, I'm Alen Jakob 👋
 
-### 👨‍💻 Front-End Developer | React Enthusiast
+## Front-End Developer | React & Next.js 
 
-I’m a Front-End Developer currently based at **Interia**, where I specialize in building web applications using **React.js, TypeScript, and Next.js**. My journey started in the e-commerce sector working with **Vue 2**, which gave me a deep understanding of state management and reactive patterns.
+I’m a Front-End Developer with experience building scalable web applications using React.js, TypeScript, and Next.js, including my work at Interia.
+My journey started in e-commerce with Vue 2, giving me a strong foundation in state management and reactive design patterns.
 
-Beyond the code, I’m an outdoor enthusiast—you’ll likely find me cycling or exploring new trails whenever I'm away from the keyboard.
+📬 Always happy to connect with fellow developers and tech enthusiasts.
+
+Beyond coding, I’m an outdoor enthusiast—you’ll usually find me cycling or exploring new trails whenever I’m away from the keyboard.
 
 ---
 
