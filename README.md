@@ -46,3 +46,5 @@ I'm always down to chat about new projects, innovative features, or tech collabo
 * **Status:** Open to networking 💬📫
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=AlenJakob&color=blue&style=flat)
