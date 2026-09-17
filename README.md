@@ -47,5 +47,5 @@ I'm always down to chat about new projects, innovative features, or tech collabo
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlenJakob&color=555555&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AlenJakob&color=blue&style=flat)
 
